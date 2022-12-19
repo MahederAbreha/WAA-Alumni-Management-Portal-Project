@@ -8,7 +8,7 @@ import jakarta.persistence.Id;
 @Entity
 public class JobExperience {
    @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Integer Year;
+   @GeneratedValue(strategy = GenerationType.IDENTITY)
+   private Integer Year;
    private  String countryName;
 }
