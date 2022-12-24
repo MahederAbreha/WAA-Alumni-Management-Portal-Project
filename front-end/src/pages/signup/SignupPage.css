@@ -1,0 +1,15 @@
+.custom-card {
+    width: 350px;
+    max-width: 100%;
+    background-color: #eee !important;
+}
+
+.user-icon {
+    font-size: 100px;
+    color: lightblue;
+}
+.mySignUP{
+    color:rgb(9, 6, 2);
+    margin:150px;
+    border-radius: 10%;
+}
